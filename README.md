@@ -1,2 +1,2 @@
 # Invisible
-This code makes you invisible if you put a blue color cloth in front of you
+This code makes you invisible if you put a Red color cloth in front of you
